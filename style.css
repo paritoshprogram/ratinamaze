@@ -1,0 +1,29 @@
+
+ div{
+   display: inline-block;
+   
+   
+ }
+
+ #table {
+  
+  display : block;
+  margin-top: 20px; 
+ 
+ 
+
+ }
+
+
+ tr,td { 
+             border: 3px solid black;
+             padding: 1px;
+             height: 70px;
+             width: 70px;
+             text-align: center;
+             background-color:black;
+             
+             
+             
+ }
+  
